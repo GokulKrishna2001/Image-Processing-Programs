@@ -1,12 +1,19 @@
 These are the set of programs available:
 
 1	To read an RGB, Gray and Binary Image and to Display Them
+
 2	Convert Gray Image to Binary Image without any Threshold Function
+
 3	Display the 3 Channels of RGB of an Image
+
 4	Convert the RGB image to Gray Scale Image without any Function
+
 5	Sampling and Quantization of an Image
+
 6	Interpolation
+
 7	Contrast Stretching
+
 8	Logarithmic Transformation of an Image
 9	Arithmetic Operations on Images
 10	Bit Plane Slicing
